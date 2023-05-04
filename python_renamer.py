@@ -2,7 +2,7 @@ import math
 import os
  
 # assign directory
-directory = '.'
+directory = './example_papers'
 
 # find
 from PyPDF2 import PdfReader

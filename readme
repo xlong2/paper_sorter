@@ -1,1 +1,3 @@
 paper_sorter
+include modified
+dependent on pdffigures https://github.com/allenai/pdffigures2
